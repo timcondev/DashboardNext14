@@ -24,7 +24,27 @@
     "**/*.ts",
     "**/*.tsx",
     "Data/menuItems.ss",
-    "src/app/ui/dashboard/pagnination/pagination.jsx"
+    "src/app/ui/dashboard/pagnination/pagination.jsx",
+    "src/app/data/menuItems.js",
+    "src/app/data/chartData.js",
+    "src/app/page.jsx",
+    "src/app/layout.jsx",
+    "src/app/ui/login/loginForm/loginForm.jsx",
+    "src/app/ui/dashboard/sidebar/sidebar.jsx",
+    "src/app/ui/dashboard/search/search.jsx",
+    "src/app/ui/dashboard/rightbar/rightbar.jsx",
+    "src/app/ui/dashboard/navbar/navbar.jsx",
+    "src/app/ui/dashboard/footer/footer.jsx",
+    "src/app/ui/dashboard/chart/chart.jsx",
+    "src/app/ui/dashboard/card/card.jsx",
+    "src/app/login/page.jsx",
+    "src/app/dashboard/layout.jsx",
+    "src/app/dashboard/users/page.jsx",
+    "src/app/dashboard/users/add/page.sx",
+    "src/app/dashboard/users/[id]/page.jsx",
+    "src/app/dashboard/products/page.jsx",
+    "src/app/dashboard/products/add/page.jsx",
+    "src/app/dashboard/products/[id]/page.jsx"
   ],
   "exclude": ["node_modules"]
 }

@@ -34,4 +34,4 @@ export const chartData = [
     visit: 3490,
     click: 4300,
   },
-] as const;
+];
