@@ -16,8 +16,8 @@ const Rightbar = () => {
           </h3>
           <span className={styles.subtitle}>Takes 4 minutes to learn</span>
           <p className={styles.desc}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Reprehenderit eius libero perspiciatis recusandae possimus.
+            This updated version uses Next.JS server actions to allow you to
+            add/remove/update both users and products! Check it out!{' '}
           </p>
           <button className={styles.button}>
             <MdPlayCircleFilled />
@@ -33,10 +33,7 @@ const Rightbar = () => {
             up!
           </h3>
           <span className={styles.subtitle}>Boost your productivity</span>
-          <p className={styles.desc}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Reprehenderit eius libero perspiciatis recusandae possimus.
-          </p>
+          <p className={styles.desc}>Next.JS 14 Now Available!</p>
           <button className={styles.button}>
             <MdReadMore />
             Learn

@@ -10,7 +10,7 @@ import {
   Legend,
   ResponsiveContainer,
 } from 'recharts';
-import { chartData } from '../../../data/chartData';
+import { chartData } from '/app/data/chartData';
 
 const data = [...chartData];
 

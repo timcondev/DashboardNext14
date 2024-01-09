@@ -57,3 +57,9 @@
 .logout:hover {
   background-color: #2e374a;
 }
+.status {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 50px;
+}
