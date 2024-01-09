@@ -1,5 +1,6 @@
-import Image from 'next/image';
+import { redirect } from 'next/navigation';
+import { auth } from '/app/auth';
 
 export default function Home() {
-  return <div>Homepage</div>;
+  return <>const session = auth() if (!session) {redirect('/login')}</>;
 }
