@@ -8,6 +8,6 @@ Created to get up to speed on Next.JS 14 server actions.
 Built using Next.JS 14 (App Router, Server Actions). Using NextAuth for authentication, MongoDB/Mongoose for data. Using CSS Modules, DeBounce, and Recharts for UI enhancements.
 
 # ToDo
-Add for Revenue/Reports
-Add support for Teams
-Ability to modify passwords
+Add for Revenue/Reports <br />
+Add support for Teams <br />
+Ability to modify passwords <br />
